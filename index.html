@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Bored API</title>
+	<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+	<script type="module" src="./js/app/main.js" defer></script>
+	<link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;800&display=swap" rel="stylesheet">
+	<link rel="stylesheet" href="./css/style.css">
+	
+</head>
+<body>
+<div id="home-view">
+        <h1 id="title">Caught in the Doldrums?</h1>
+        <button class="glow-on-hover" id="get-activity" type="button">Yup, spark my day!</button>
+        <button class="glow-on-hover" id="no-button" type="button">All good here!</button>
+    </div>
+    <div id="activity-view" style="display: none;">
+		<div class="activity-content">
+        
+			<h1 id="activity-title">Fasten your seatbelt! (and drumroll, please)</h1>
+       	 	<button class="glow-on-hover" id="get-activity-activity-view" type="button">Hit me!</button>
+       	 	<div id="activity-display-container">
+				<div id="activity-display"></div>
+			</div>
+    	</div>
+	</div>
+</body>
+</html>
