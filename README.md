@@ -14,9 +14,9 @@ This application was built using the following technologies and frameworks:
 - BoredAPI - An open API used to generate random activities.
 
 ### How to Run
-Clone the repository or download the files.
-Open **index.html** in your preferred web browser.
-Enjoy!
+<br> Clone the repository or download the files. </br>
+<br> Open **index.html** in your preferred web browser. </br>
+<br> Enjoy! </br>
 
 ### Show Your Support
 Give a ⭐️ if you like this project!
